@@ -15,7 +15,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/ProjectWyvern/wyvern-schemas.git"
+    "url": "git+https://github.com/redblow/wyvern-schemas.git"
   },
   "keywords": [
     "ethereum",
@@ -25,13 +25,13 @@
   "author": "Project Wyvern Developers",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/ProjectWyvern/wyvern-schemas/issues"
+    "url": "https://github.com/redblow/wyvern-schemas/issues"
   },
-  "homepage": "https://github.com/ProjectWyvern/wyvern-schemas#readme",
+  "homepage": "https://github.com/redblow/wyvern-schemas#readme",
   "devDependencies": {
     "@types/node": "^9.3.0",
     "buffer": "^5.0.8",
-    "ethereumjs-abi": "https://github.com/ProjectWyvern/ethereumjs-abi.git",
+    "ethereumjs-abi": "https://github.com/redblow/ethereumjs-abi.git",
     "ethereumjs-util": "^5.1.3",
     "js-yaml": "^3.10.0",
     "jsonlint": "^1.6.2",
